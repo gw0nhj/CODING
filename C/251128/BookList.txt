@@ -1,0 +1,300 @@
+A, Aa, Ac
+B, Ba, Bc
+C, Ca, Cc
+D, Da, Dc
+E, Ea, Ec
+SameAuthor1, A, C1
+SameAuthor2, A, C2
+SameAuthor3, A, C3
+SameAuthor4, A, C4
+SameAuthor5, A, C5
+SameCompany1, A1, C
+SameCompany2, A2, C
+SameCompany3, A3, C
+SameCompany4, A4, C
+SameCompany5, A5, C
+SameName, A1, C1
+SameName, A2, C2
+SameName, A3, C3
+Don Quixote, Miguel de Cervantes, N
+Alice's Adventures in Wonderland, Lewis Carroll, N
+The Adventures of Huckleberry Finn, Mark Twain, N
+The Adventures of Tom Sawyer, Mark Twain, N
+Treasure Island, Robert Louis Stevenson, N
+Pride and Prejudice, Jane Austen, N
+Wuthering Heights, Emily Brontë, N
+Jane Eyre, Charlotte Brontë, N
+Moby Dick, Herman Melville, N
+The Scarlet Letter, Nathaniel Hawthorne, N
+Gulliver's Travels, Jonathan Swift, N
+The Pilgrim's Progress, John Bunyan, N
+A Christmas Carol, Charles Dickens, N
+David Copperfield, Charles Dickens, N
+A Tale of Two Cities, Charles Dickens, N
+Little Women, Louisa May Alcott, N
+Great Expectations, Charles Dickens, N
+The Hobbit, or, There and Back Again, J.R.R. Tolkien, N
+Frankenstein, or, the Modern Prometheus, Mary Shelley, N
+Oliver Twist, Charles Dickens, N
+Uncle Tom's Cabin, Harriet Beecher Stowe, N
+Crime and Punishment, Fyodor Dostoyevsky, N
+Madame Bovary: Patterns of Provincial life, Gustave Flaubert, N
+The Return of the King, J.R.R. Tolkien, N
+Dracula, Bram Stoker, N
+The Three Musketeers, Alexandre Dumas, N
+Brave New World, Aldous Huxley, N
+War and Peace, Leo Tolstoy, N
+To Kill a Mockingbird, Harper Lee, N
+The Wizard of Oz, L. Frank Baum, N
+Les Misérables, Victor Hugo, N
+The Secret Garden, Frances Hodgson Burnett, N
+Animal Farm, George Orwell, N
+The Great Gatsby, F. Scott Fitzgerald, N
+The Little Prince, Antoine de Saint-Exupéry, N
+The Call of the Wild, Jack London, N
+20,000 Leagues Under the Sea, Jules Verne, N
+Anna Karenina, Leo Tolstoy, N
+The Wind in the Willows, Kenneth Grahame, N
+The Picture of Dorian Gray, Oscar Wilde, N
+The Grapes of Wrath, John Steinbeck, N
+Sense and Sensibility, Jane Austen, N
+The Last of the Mohicans, James Fenimore Cooper, N
+Tess of the d'Urbervilles, Thomas Hardy, N
+Harry Potter and the Sorcerer's Stone, J.K. Rowling, N
+Heidi, Johanna Spyri, N
+Ulysses, James Joyce, N
+The Complete Sherlock Holmes, Arthur Conan Doyle, N
+The Count of Monte Cristo, Alexandre Dumas, N
+The Old Man and the Sea, Ernest Hemingway, N
+The Lion, the Witch, and the Wardrobe, C.S. Lewis, N
+The Hunchback of Notre Dame, Victor Hugo, N
+Pinocchio, Carlo Collodi, N
+One Hundred Years of Solitude, Gabriel García Márquez, N
+Ivanhoe, Walter Scott, N
+The Red Badge of Courage, Stephen Crane, N
+Anne of Green Gables, L.M. Montgomery, N
+Black Beauty, Anna Sewell, N
+Peter Pan, J.M. Barrie, N
+A Farewell to Arms, Ernest Hemingway, N
+The House of the Seven Gables, Nathaniel Hawthorne, N
+Lord of the Flies, William Golding, N
+The Prince and the Pauper, Mark Twain, N
+A Portrait of the Artist as a Young Man, James Joyce, N
+Lord Jim, Joseph Conrad, N
+Harry Potter and the Chamber of Secrets, J.K. Rowling, N
+The Red & the Black, Stendhal, N
+The Stranger, Albert Camus, N
+The Trial, Franz Kafka, N
+Lady Chatterley's Lover, D.H. Lawrence, N
+Kidnapped: The Adventures of David Balfour, Robert Louis Stevenson, N
+The Catcher in the Rye, J.D. Salinger, N
+Fahrenheit 451, Ray Bradbury, N
+A Journey to the Center of the Earth, Jules Verne, N
+Vanity Fair, William Makepeace Thackeray, N
+All Quiet on the Western Front, Erich Maria Remarque, N
+Gone with the Wind, Margaret Mitchell, N
+My Ántonia, Willa Cather, N
+Of Mice and Men, John Steinbeck, N
+The Vicar of Wakefield, Oliver Goldsmith, N
+A Connecticut Yankee in King Arthur's Court, Mark Twain, N
+White Fang, Jack London, N
+Fathers and Sons, Ivan Sergeevich Turgenev, N
+Doctor Zhivago, Boris Leonidovich Pasternak, N
+The Decameron, Giovanni Boccaccio, N
+Nineteen Eighty-Four, George Orwell, N
+The Jungle, Upton Sinclair, N
+The Da Vinci Code, Dan Brown, N
+Persuasion, Jane Austen, N
+Mansfield Park, Jane Austen, N
+Candide, Voltaire, N
+For Whom the Bell Tolls, Ernest Hemingway, N
+Far from the Madding Crowd, Thomas Hardy, N
+The Fellowship of the Ring, J.R.R. Tolkien, N
+The Return of the Native, Thomas Hardy, N
+Sons and Lovers, D.H. Lawrence, N
+Charlotte's Web, E.B. White, N
+The Swiss Family Robinson, Johann David Wyss, N
+Bleak House, Charles Dickens, N
+Père Goriot, Honoré de Balzac, N
+Utopia, Thomas More, N
+The History of Tom Jones, a Foundling, Henry Fielding, N
+Harry Potter and the Prisoner of Azkaban, J.K. Rowling, N
+Kim, Rudyard Kipling, N
+The Sound and the Fury, William Faulkner, N
+Harry Potter and the Goblet of Fire, J.K. Rowling, N
+The Mill on the Floss, George Eliot, N
+A Wrinkle in Time, Madeleine L'Engle, N
+The Hound of the Baskervilles, Arthur Conan Doyle, N
+The Two Towers, J.R.R. Tolkien, N
+The War of the Worlds, H.G. Wells, N
+Middlemarch, George Eliot, N
+The Age of Innocence, Edith Wharton, N
+The Color Purple, Alice Walker, N
+Northanger Abbey, Jane Austen, N
+East of Eden, John Steinbeck, N
+On the Road, Jack Kerouac, N
+Catch-22, Joseph Heller, N
+Around the World in Eighty Days, Jules Verne, N
+Hard Times, Charles Dickens, N
+Beloved, Toni Morrison, N
+Mrs. Dalloway, Virginia Woolf, N
+To the Lighthouse, Virginia Woolf, N
+The Magician's Nephew, C.S. Lewis, N
+Harry Potter and the Order of the Phoenix, J.K. Rowling, N
+The Sun Also Rises, Ernest Hemingway, N
+The Good Earth, Pearl S. Buck, N
+Silas Marner, George Eliot, N
+Love in the Time of Cholera, Gabriel García Márquez, N
+Rebecca, Daphne Du Maurier, N
+Jude the Obscure, Thomas Hardy, N
+Twilight, Stephenie Meyer, N
+A Passage to India, E.M. Forster, N
+The Plague, Albert Camus, N
+Nicholas Nickleby, Charles Dickens, N
+The Pearl, John Steinbeck, N
+Ethan Frome, Edith Wharton, N
+The Tale of Genji, Murasaki Shikibu, N
+The Giver, Lois Lowry, N
+The Alchemist, Paulo Coelho, N
+The Strange Case of Dr. Jekyll and Mr. Hyde, Robert Louis Stevenson, N
+Robinson Crusoe, Daniel Defoe, N
+Tender is the Night, F. Scott Fitzgerald, N
+The Idiot, Fyodor Dostoyevsky, N
+Hatchet, Gary Paulsen, N
+The Kite Runner, Khaled Hosseini, N
+One Flew Over the Cuckoo's Nest, Ken Kesey, N
+The Portrait of a Lady, Henry James, N
+The Outsiders, S.E. Hinton, N
+Ben-Hur, Lew Wallace, N
+The Mayor of Casterbridge, Thomas Hardy, N
+Cry, The Beloved Country, Alan Paton, N
+The Last Battle, C.S. Lewis, N
+Captains Courageous, Rudyard Kipling, N
+The Castle, Franz Kafka, N
+The Metamorphosis, Franz Kafka, N
+The Magic Mountain (Der Zauberberg), Thomas Mann, N
+James and the Giant Peach, Roald Dahl, N
+The Horse and His Boy, C.S. Lewis, N
+Angels & Demons, Dan Brown, N
+The Voyage of the Dawn Treader, C.S. Lewis, N
+The Bell Jar, Sylvia Plath, N
+Women in Love, D.H. Lawrence, N
+The Yearling, Marjorie Kinnan Rawlings, N
+O Pioneers!, Willa Cather, N
+The Handmaid's Tale, Margaret Atwood, N
+The Moonstone, Wilkie Collins, N
+The Old Curiosity Shop, Charles Dickens, N
+Little Dorrit, Charles Dickens, N
+Prince Caspian: The Return to Narnia, C.S. Lewis, N
+Sister Carrie, Theodore Dreiser, N
+The Silver Chair, C.S. Lewis, N
+The Hunger Games, Suzanne Collins, N
+This Side of Paradise, F. Scott Fitzgerald, N
+Eugénie Grandet, Honoré de Balzac, N
+Of Human Bondage, W. Somerset Maugham, N
+Dream of the Red Chamber, Cao Xueqin, N
+Life of Pi, Yann Martel, N
+Harry Potter and the Deathly Hallows, J.K. Rowling, N
+Invisible Man, Ralph Ellison, N
+Steppenwolf, Hermann Hesse, N
+The Sorrows of Young Werther, Johann Wolfgang von Goethe, N
+Bridge to Terabithia, Katherine Paterson, N
+The Invisible Man, H.G. Wells, N
+Holes, Louis Sachar, N
+Siddhartha, Hermann Hesse, N
+A Tree Grows in Brooklyn, Betty Smith, N
+Through the Looking-Glass, and What Alice Found There, Lewis Carroll, N
+In Cold Blood, Truman Capote, N
+The House of the Spirits, Isabel Allende, N
+Adam Bede, George Eliot, N
+The Betrothed, Alessandro Manzoni, N
+The Book Thief, Markus Zusak, N
+Their Eyes Were Watching God, Zora Neale Hurston, N
+One Day in the Life of Ivan Denisovich, Aleksandr Isaevich Solzhenitsyn, N
+The Sea Wolf, Jack London, N
+Catching Fire, Suzanne Collins, N
+Roll of Thunder, Hear My Cry, Mildred D. Taylor, N
+Death Comes for the Archbishop, Willa Cather, N
+The House of Mirth, Edith Wharton, N
+Light in August, William Faulkner, N
+The Pickwick Papers, Charles Dickens, N
+Remembrance of Things Past, Marcel Proust, N
+Barchester Towers and the Warden, Anthony Trollope, N
+The Bridge of San Luis Rey, Thornton Wilder, N
+The Help, Kathryn Stockett, N
+Murder on the Orient Express, Agatha Christie, N
+The Lovely Bones, Alice Sebold, N
+The Appeal, John Grisham, N
+Dombey And Son, Charles Dickens, N
+Slaughterhouse-Five, Kurt Vonnegut, N
+An American Tragedy, Theodore Dreiser, N
+The Bluest Eye, Toni Morrison, N
+Little House In the Big Woods, Laura Ingalls Wilder, N
+Pippi Longstocking, Astrid Lindgren, N
+Germinal, Émile Zola, N
+The Heart Is a Lonely Hunter, Carson McCullers, N
+The Woman In White, Wilkie Collins, N
+Absalom, Absalom!, William Faulkner, N
+A Painted House, John Grisham, N
+The Girl With the Dragon Tattoo, Stieg Larsson, N
+A Room With a View, E.M. Forster, N
+Watership Down, Richard Adams, N
+Memoirs of a Geisha, Arthur Golden, N
+Our Mutual Friend, Charles Dickens, N
+Babbitt, Sinclair Lewis, N
+The Red Pony, John Steinbeck, N
+All the King's Men, Robert Penn Warren, N
+Things Fall Apart, Chinua Achebe, N
+Lorna Doone, R.D. Blackmore, N
+Johnny Tremain, Esther Forbes, N
+Anne of Avonlea, L.M. Montgomery, N
+Tuck Everlasting, Natalie Babbitt, N
+The BFG, Roald Dahl, N
+Cannery Row, John Steinbeck, N
+The Joy Luck Club, Amy Tan, N
+The Silmarillion, J.R.R. Tolkien, N
+Roots, Alex Haley, N
+Little House on the Prairie, Laura Ingalls Wilder, N
+Native Son, Richard Wright, N
+Stuart Little, E.B. White, N
+Cross Fire, James Patterson, N
+The Power and the Glory, Graham Greene, N
+A Clockwork Orange, Anthony Burgess, N
+The Phantom of the Opera, Gaston Leroux, N
+The Martian Chronicles, Ray Bradbury, N
+The Road, Cormac McCarthy, N
+The Way of All Flesh, Samuel Butler, N
+Diary of a Wimpy Kid: The Long Haul, Jeff Kinney, N
+Villette, Charlotte Brontë, N
+The Curious Incident of the Dog In the Night-Time, Mark Haddon, N
+The Mysterious Island, Jules Verne, N
+Song of Solomon, Toni Morrison, N
+Nana, Émile Zola, N
+Quo Vadis, Henryk Sienkiewicz, N
+Main Street, Sinclair Lewis, N
+Matilda, Roald Dahl, N
+Lolita, Vladimir Vladimirovich Nabokov, N
+Paper Towns, John Green, N
+Sounder, William H. Armstrong, N
+Are You There God? It's Me, Margaret, Judy Blume, N
+The Notebook, Nicholas Sparks, N
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler, E.L. Konigsburg, N
+Atlas Shrugged, Ayn Rand, N
+The Fountainhead, Ayn Rand, N
+Number the Stars, Lois Lowry, N
+The Firm, John Grisham, N
+Swann's Way, Marcel Proust, N
+Ender's Game, Orson Scott Card, N
+The Name of the Rose, Umberto Eco, N
+A Time to Kill, John Grisham, N
+Water for Elephants, Sara Gruen, N
+The Time Machine, H.G. Wells, N
+Eragon, Christopher Paolini, N
+The Hitchhiker's Guide to the Galaxy, Douglas Adams, N
+Buddenbrooks, Thomas Mann, N
+A Thousand Splendid Suns, Khaled Hosseini, N
+The Witch of Blackbird Pond, Elizabeth George Speare, N
+And Then There Were None, Agatha Christie, N
+A Separate Peace, John Knowles, N
+Breaking Dawn, Stephenie Meyer, N
+As I Lay Dying, William Faulkner, N
