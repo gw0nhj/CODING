@@ -4,13 +4,15 @@
 #include <stdio.h>
 #include <math.h>
 
+#define NUMBER 2026
+#define First 7
 int NtoTen(int Number, int N);
 int TentoM(int Number, int M);
 
 void main() {
 
-    printf("4진법일 때 (1312)는 10진법일 때 %d\n", NtoTen(1312, 4));
-    printf("이를 다시 2진법으로 변환하면 %d", TentoM(NtoTen(1312, 4), 2));
+    printf("%d진법일 때 (%d)는 10진법일 때 %d\n", First, NUMBER, NtoTen(NUMBER, First));
+    printf("이를 다시 2진법으로 변환하면 %d", TentoM(NtoTen(NUMBER, First), 2));
 
     return;
 

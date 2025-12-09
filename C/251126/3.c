@@ -27,6 +27,7 @@ void QuickSort(int arr[], int Left, int Right) {
         else {
             After[r++] = arr[i]; // i는 arr의 유효한 인덱스입니다.
         }
+        
     }
 
     // 3. 재귀 호출 (Recursive Calls)
