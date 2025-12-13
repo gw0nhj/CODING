@@ -51,21 +51,26 @@
       "projectName": "코딩_6ba6fb54"
     },
     {
-      "name": "C/C++ Runner: Debug Session",
-      "type": "cppdbg",
-      "request": "launch",
-      "args": [],
-      "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/이정원/코딩/JAVA/src/20241220",
-      "program": "c:/Users/이정원/코딩/JAVA/src/20241220/build/Debug/outDebug",
-      "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
-      "setupCommands": [
+    "name": "C/C++ Runner: Debug Session",
+    "type": "cppdbg",
+    "request": "launch",
+    "args": [],
+    "stopAtEntry": false,
+    "externalConsole": true,
+    
+    // ⭐ Task의 cwd와 일치시킵니다: 소스 파일이 있는 폴더
+    "cwd": "${fileDirname}", 
+    
+    // ⭐ Task의 출력 경로와 일치시킵니다: 소스 파일과 같은 폴더의 .exe 파일
+    "program": "${fileDirname}/${fileBasenameNoExtension}.exe", 
+    
+    "MIMode": "gdb",
+    "miDebuggerPath": "gdb",
+    "setupCommands": [
         {
-          "description": "Enable pretty-printing for gdb",
-          "text": "-enable-pretty-printing",
-          "ignoreFailures": true
+            "description": "Enable pretty-printing for gdb",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
         }
       ]
     }
